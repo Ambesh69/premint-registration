@@ -4,7 +4,7 @@ define('OAUTH2_CLIENT_ID', '------------'); //Your client Id
 define('OAUTH2_CLIENT_SECRET', '-----------'); //Your secret client code
 
 // auth url to redirect user over
-$authorizeURL = 'https://discordapp.com/api/oauth2/authorize';
+$authorizeURL = 'https://discord.gg/FUC4Qwbp';
 // url to request token from after authentication
 $tokenURL = 'https://discordapp.com/api/oauth2/token';
 // url to request discord username from
